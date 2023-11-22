@@ -1,10 +1,10 @@
-<img align="right" src="https://images.unsplash.com/photo-1522252234503-e356532cafd5?q=80&w=2825&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Illustration" title="Illustration Storyset" width=450/>
+<img align="right" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" alt="Illustration" title="Illustration Storyset" width=450/>
 
 <h1 align="left">Hi 👋🏽, I'm Nazirul</h1>
 <br>
 
-<img src="https://myreadme.vercel.app/api/embed/nazirul23?panels=userstatistics" alt="reimaginedreadme" />
-    
+<img src="https://myreadme.vercel.app/api/embed/nazirul23?panels=userstatistics,toplanguages" alt="reimaginedreadme" />
+
 ---
 
 <div>
