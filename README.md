@@ -1,5 +1,5 @@
 <img align="right" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" alt="Illustration" title="Illustration Storyset" width=450/>
-
+  
 <h1 align="left">Hi 👋🏽, I'm Nazirul</h1>
 <br>
 
